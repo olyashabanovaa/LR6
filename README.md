@@ -76,5 +76,12 @@ $ git log --pretty=format: "%h %ad %an %s" --date=short
 ```
 
 ## 13. Финальная история операций
+281bfd0 2024-10-23 Olga Shabanova Разрешение конфликта с помощью изменения файла mergefile.txt
+d7d6b7f 2024-10-23 olyashabanovaa Вывод надписи Hello. World!
+921f53b 2020-11-21 Kurtyanik Обновление информации
+0f9f50d 2020-11-21 Kurtyanik Заполнил файл
+c08a654 2020-11-21 Kurtyanik Файл создан пустым
+3c6e913 2020-11-21 Kurtyanik Initial commit
+
 
 
