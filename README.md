@@ -64,8 +64,11 @@ $ git checkout master
 
 
 ```bash
-$ git merge branch1
+$ git merge origin/branch1
 ```
+
+
+![Скриншот со слиянием веток](screenshots/8.jpg)
 
 
 *Конфликт был устранён с помощью удаления ненужного содержимого в текстовом файле mergefile.txt в ветке branch1*
