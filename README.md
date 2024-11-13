@@ -87,7 +87,7 @@ $ git log --all --oneline
 
 
 ```bash
-$ git reset --hard 281bfd0
+$ git reset --hard 071ccb2
 ```
 
 *Скриншот с результатом предыдущей команды*
