@@ -90,6 +90,9 @@ $ git log --all --oneline
 $ git reset --hard 281bfd0
 ```
 
+*Скриншот с результатом предыдущей команды*
+![Скриншот с откатом коммита](screenshots/7.jpg)
+
 ## 11. Создание новой ветки для отчета
 ```bash
 $ git checkout -b rep
