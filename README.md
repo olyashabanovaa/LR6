@@ -67,6 +67,8 @@ $ git checkout master
 $ git merge branch1
 ```
 
+![Скриншот со слиянием веток](screenshots/8.jpg)
+
 
 *Конфликт был устранён с помощью удаления ненужного содержимого в текстовом файле mergefile.txt в ветке branch1*
 
@@ -87,8 +89,14 @@ $ git log --all --oneline
 
 
 ```bash
-$ git reset --hard 281bfd0
+$ git reset --hard 071ccb2
 ```
+
+*Скриншот с результатом предыдущей команды*
+
+
+![Скриншот с откатом коммита](screenshots/7.jpg)
+
 
 ## 11. Создание новой ветки для отчета
 ```bash
